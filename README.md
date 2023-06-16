@@ -4,9 +4,9 @@
 
 * A macro for mighty omega so when u press on W once it will run automatically.
 
-* F5 turn off
-* F6 reload
-* F7 exit the macro
+* 👀 F5 Turn off
+* 👀 F6 Reload
+* 👀 F7 Exit the macro
 
 * ✔️ Password : Frost
 
