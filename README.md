@@ -2,7 +2,7 @@
 
 * Hello! I made a script for the game mighty omega on roblox!
 
-* This macro helps you with the recipes so u dont need to alt tab and search them.
+* A macro for mighty omega so when u press on W once it will run automatically.
 
 * ✔️ Password : Frost
 
