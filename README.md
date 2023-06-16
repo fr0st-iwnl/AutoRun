@@ -12,4 +12,4 @@
 
 * ⌚️ New scripts/macros in the future!
 
-* ![AutoRun](https://cdn.discordapp.com/attachments/805554377745235974/1119376999497072691/AUTORUN.png)
+![AutoRun](https://cdn.discordapp.com/attachments/805554377745235974/1119376999497072691/AUTORUN.png)
