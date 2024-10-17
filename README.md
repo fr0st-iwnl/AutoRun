@@ -1,3 +1,5 @@
+<h2 align="center">- AutoRun -</h2>
+
 <p align="center">A macro for mighty omega that helps you fighting. (AutoRun Macro)</p>
 
 <p align="center">
@@ -16,6 +18,4 @@
 ## 🤔 What is KM | Kiyoko's Macro?
 Kiyoko's Macros is an project that boosts Roblox games using Autohotkey macros.
 
-<h1 align="center">
-  <a href="https://discord.gg/8xPc9x4Gus" target="_blank"><img src="https://raw.githubusercontent.com/fr0st-iwnl/assets/main/thumbnails/kiyokothumbnail.png" alt="Kiyoko" width="800"></a>
-</h1>
+![Macro](https://raw.githubusercontent.com/fr0st-iwnl/assets/main/thumbnails/kiyokothumbnail2.png)
